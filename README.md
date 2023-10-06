@@ -26,4 +26,9 @@ Initialization of GPIO pins for IR sensors and lighting control.
 Logic to detect hand gestures using IR sensors.
 Logic to control lighting based on detected gestures.
 
+# Results
+
+![result-1](https://github.com/nirajccs1999/Touchless_light_switch/assets/121447767/a2f0e897-4647-490b-915f-2d99288c72a2)
+![result-2](https://github.com/nirajccs1999/Touchless_light_switch/assets/121447767/c49a303b-a788-4b47-b2c1-9bd6192c9210)
+![result-3](https://github.com/nirajccs1999/Touchless_light_switch/assets/121447767/65be0e2c-978a-47ea-9d59-7a0690bdd5b9)
 
